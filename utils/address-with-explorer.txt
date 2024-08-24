@@ -1,2 +1,0 @@
-ProxyAdmin: https://explorer-evm.testnet.swisstronik.com/address/0xFe4A1008fc86efa9E98528ea9E7f4217169EDecD
-TransparentUpgradeableProxy: https://explorer-evm.testnet.swisstronik.com/address/0x5A4a68A470780E578049C20d1B0FB00F72d29A9B
